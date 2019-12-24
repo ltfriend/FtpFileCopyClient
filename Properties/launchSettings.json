@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FtpClient": {
+      "commandName": "Project",
+      "commandLineArgs": "-pw da31db5a c:\\AeroAdminLog.txt host1643149@ftp18.hostland.ru:/1cdevelop.ru/htdocs/www/ext_images/"
+    }
+  }
+}
